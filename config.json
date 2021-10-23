@@ -1,0 +1,9 @@
+{
+	"ip":"snowanarchy.ga",
+	"port": ,
+	"name": "SnowBot",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register snowbotXD snowbotXD",
+	"login-cmd":"/login snowbotXD"
+}
