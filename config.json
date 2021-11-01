@@ -1,6 +1,6 @@
 {
 	"ip":"51.161.99.20",
-	"port": 5565,
+	"port": 25565,
 	"name": "md_5",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
