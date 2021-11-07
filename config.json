@@ -4,6 +4,6 @@
 	"name": "SnowBotSpawner",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
-	"register-cmd":"/login snowbotXD",
+	"register-cmd":"/register snowbotXD snowbotXD",
 	"login-cmd":"/login snowbotXD"
 }
