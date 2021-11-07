@@ -1,7 +1,7 @@
 {
 	"ip":"144.91.105.97",
 	"port": 27912,
-	"name": "SnowSpawner",
+	"name": "SnowBotSpawner",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
 	"register-cmd":"/login snowbotXD",
