@@ -1,9 +1,9 @@
 {
 	"ip":"144.91.105.97",
 	"port": 27912,
-	"name": "KhalidPlus",
+	"name": "SnowSpawner",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
-	"register-cmd":"/login khalidplux",
-	"login-cmd":"/spawnbot humanos"
+	"register-cmd":"/login snowbotXD",
+	"login-cmd":"/login snowbotXD"
 }
