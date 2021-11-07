@@ -39,7 +39,7 @@ bot.on('login',function(){
 	   task(i); 
 	} 
 	console.log("Logged In")
-	bot.chat("/end");
+	bot.chat("/spawnbot humanos");
 });
   
 function task(i) { 
