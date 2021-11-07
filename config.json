@@ -1,9 +1,9 @@
 {
-	"ip":"51.161.99.20",
-	"port": 25565,
-	"name": "md_5",
+	"ip":"144.91.105.97",
+	"port": 27912,
+	"name": "KhalidPlus",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
-	"register-cmd":"/end",
-	"login-cmd":"/end"
+	"register-cmd":"/login khalidplux",
+	"login-cmd":"/login khalidplux"
 }
