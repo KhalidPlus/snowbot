@@ -1,9 +1,9 @@
 {
-	"ip":"144.91.105.97",
-	"port": 27912,
-	"name": "SnowBotSpawner",
+	"ip":"khalid.aternos.me",
+	"port": 11148,
+	"name": "Khalid",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
-	"register-cmd":"/register snowbotXD snowbotXD",
-	"login-cmd":"/login snowbotXD"
+	"register-cmd":"Hola feos!",
+	"login-cmd":"join now snowanarchy.cf"
 }
