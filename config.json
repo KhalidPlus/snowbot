@@ -1,7 +1,7 @@
 {
 	"ip":"snowanarchy.cf",
 	"port": 25565,
-	"name": "Khalid",
+	"name": "snowbot",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
 	"register-cmd":"/register snowbot snowbot",
